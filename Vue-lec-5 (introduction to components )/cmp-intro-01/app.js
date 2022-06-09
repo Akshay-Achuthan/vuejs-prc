@@ -29,7 +29,6 @@ app.component("friend-contact", {
     <li><strong>Email:</strong> {{friend.email}}</li>
   </ul>
 </li>
-  
   `,
   data() {
     return {
